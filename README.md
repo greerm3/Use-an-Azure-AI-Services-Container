@@ -3,7 +3,7 @@
 Azure AI services streamline developers' access to Microsoft's scalable infrastructure while they concentrate on their code. To offer more control over service infrastructure and data flow, Azure AI APIs can be containerized, enabling deployment on Azure Container Instances, local Docker servers, or Azure Kubernetes Services clusters. Containerized services retain billing connections to Azure but ensure application data isn't transmitted to the backend, empowering organizations with enhanced setup control for authentication, scalability, and customization.
 <h2>Languages and Utilities Used</h2>
 
-- <b>Azure<b>
+- <b>Azure Portal<b>
 - <b>Visual Code Studio<b>
 - <b>Windows 11<b>
 
@@ -33,8 +33,19 @@ Azure AI services streamline developers' access to Microsoft's scalable infrastr
 <img src="https://i.imgur.com/wdtOVz1.png"height="80%" width="80% alt="vpn"/>
 
 -<b>Deploy then go to Overview<b>
--<b>Go to Visual Studio Code and click on the O4-containers folder<b>
+-<b>Go to Visual Studio Code and click on the 04-containerss folder<b>
 -<b>Type rest-test.cmd<b>
 -<b>Replace either IP address or FQDN with ones from the Container and save<b>
 <p>
 <img src="https://i.imgur.com/ppFpDOG.png"height="80%" width="80% alt="vpn"/>
+
+- <b>Right-click on the 04-containers and choose "integrated terminal"<b>
+- <b>Enter rest-test<b>
+<p>
+<img src="https://i.imgur.com/NaYrLbU.png"height="80%" width="80% alt="vpn"/>
+
+- <b>See if the command returns two JSON input documents, one in french and one in English<b>
+- <b>Exit Virtual Code Studio<b>
+- <b>Delete Container Instance Resource<b>
+- <b>Delete other Resource Groups<b>
+- <b>Exit Azure Portal<b>
