@@ -35,6 +35,6 @@ Azure AI services streamline developers' access to Microsoft's scalable infrastr
 -<b>Deploy then go to Overview<b>
 -<b>Go to Visual Studio Code and click on the O4-containers folder<b>
 -<b>Type rest-test.cmd<b>
--<b>Replace either IP address or FQDN with ones in your Containers<b>
+-<b>Replace either IP address or FQDN with ones from the Container and save<b>
 <p>
 <img src="https://i.imgur.com/ppFpDOG.png"height="80%" width="80% alt="vpn"/>
