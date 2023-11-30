@@ -25,7 +25,16 @@ Azure AI services streamline developers' access to Microsoft's scalable infrastr
 
 - <b>Go back to home, search Container Instances and create a resource<b>
 <p>
-<img src="https://i.imgur.com/2er8Trj.png"height="80%" width="80% alt="vpn"/>
-<p>
-<img src="https://i.imgur.com/5NREUmV.png"height="80%" width="80% alt="vpn"/>
+<img src="https://i.imgur.com/VyXBSb4.png"height="80%" width="80% alt="vpn"/>
 <img src="https://i.imgur.com/x2LmFzK.png"height="80%" width="80% alt="vpn"/>
+
+- <b>Enviornmental Variables:<b>
+<p>
+<img src="https://i.imgur.com/wdtOVz1.png"height="80%" width="80% alt="vpn"/>
+
+-<b>Deploy then go to Overview<b>
+-<b>Go to Visual Studio Code and click on the O4-containers folder<b>
+-<b>Type rest-test.cmd<b>
+-<b>Replace either IP address or FQDN with ones in your Containers<b>
+<p>
+<img src="https://i.imgur.com/ppFpDOG.png"height="80%" width="80% alt="vpn"/>
